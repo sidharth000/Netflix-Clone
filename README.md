@@ -1,4 +1,4 @@
-##Deployed the app in Firebase
+## Deployed the app in Firebase
 
 https://netflix-clone-39fad.web.app/
 
